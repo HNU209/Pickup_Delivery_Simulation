@@ -1,0 +1,36 @@
+.trip > *div {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+.trip-container {
+    flex: 1;
+}
+.time {
+    position: absolute;
+    margin: 0;
+    width: 100%;
+    top: 1%;
+    color: white;
+    text-align: center;
+}
+#deckgl-wrapper {
+    position: static;
+}
+.mapboxgl-ctrl-bottom-right {
+    display: none;
+}
+#slider {
+    width: 30%;
+    height: 10%;
+    position: absolute;
+    left: 35%;
+    top: 85%;
+}
+.legend {
+    width: 18rem;
+    height: 9rem;
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+}
