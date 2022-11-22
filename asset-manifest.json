@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Pickup_Delivery_Simulation/static/css/main.eed784c2.css",
-    "main.js": "/Pickup_Delivery_Simulation/static/js/main.9270b9e2.js",
+    "main.js": "/Pickup_Delivery_Simulation/static/js/main.ba942fa3.js",
     "static/js/483.6137cba9.chunk.js": "/Pickup_Delivery_Simulation/static/js/483.6137cba9.chunk.js",
     "static/js/787.dc500854.chunk.js": "/Pickup_Delivery_Simulation/static/js/787.dc500854.chunk.js",
     "service-worker.js": "/Pickup_Delivery_Simulation/service-worker.js",
     "index.html": "/Pickup_Delivery_Simulation/index.html",
     "main.eed784c2.css.map": "/Pickup_Delivery_Simulation/static/css/main.eed784c2.css.map",
-    "main.9270b9e2.js.map": "/Pickup_Delivery_Simulation/static/js/main.9270b9e2.js.map",
+    "main.ba942fa3.js.map": "/Pickup_Delivery_Simulation/static/js/main.ba942fa3.js.map",
     "483.6137cba9.chunk.js.map": "/Pickup_Delivery_Simulation/static/js/483.6137cba9.chunk.js.map",
     "787.dc500854.chunk.js.map": "/Pickup_Delivery_Simulation/static/js/787.dc500854.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eed784c2.css",
-    "static/js/main.9270b9e2.js"
+    "static/js/main.ba942fa3.js"
   ]
 }
