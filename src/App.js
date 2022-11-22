@@ -7,14 +7,14 @@ import Splash from './components/Splash';
 import './css/app.css';
 
 const getTripData = time => {
-  const res = axios.get(`https://raw.githubusercontent.com/HNU209/pickUp-delivery_Simulation/main/src/data/trip/trip_${time}.json`);
+  const res = axios.get(`https://raw.githubusercontent.com/HNU209/Pickup_Delivery_Simulation/main/src/data/trip/trip_${time}.json`);
   // const res = axios.get(`./data/trip/trip_${time}.json`);
   const result = res.then(r => r.data);
   return result;
 }
 
 const getRestData = dataName => {
-  const res = axios.get(`https://raw.githubusercontent.com/HNU209/pickUp-delivery_Simulation/main/src/data/rest/${dataName}.json`);
+  const res = axios.get(`https://raw.githubusercontent.com/HNU209/Pickup_Delivery_Simulation/main/src/data/rest/${dataName}.json`);
   // const res = axios.get(`./data/rest/${dataName}.json`);
   const result = res.then(r => r.data);
   return result;
